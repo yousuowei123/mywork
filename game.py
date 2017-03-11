@@ -6,3 +6,6 @@ list_1.append(dict_2)
 
 dict_1['salary'] = 6000
 dict_2['salar'] = 7000
+
+dict_1['sex'] = 'male'
+dict_2['sex'] = 'female'
